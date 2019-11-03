@@ -1,1 +1,1 @@
-This is a FriendFinder application with the questions chosen with more than a little sarcasm.  It is a full-stack site that will take in the results from the user survey, compare their answers to those from other users and then display the name and picture of the user with the best overall match. 
+FriendFinder is a Full Stack application utilizing Node.js, Express and a custom built API.  It uses a matching algorithm to pair users to compatible friend candidates based on their answers to a short survey and is deployed on Heroku.
